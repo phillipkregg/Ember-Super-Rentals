@@ -9,7 +9,3 @@ export default Model.extend({
   image: attr(),
   bedrooms: attr()
 });
-
-export default Model.extend({
-
-});
